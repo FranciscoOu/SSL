@@ -1,1 +1,1 @@
-
+Compilador mingw-w64
